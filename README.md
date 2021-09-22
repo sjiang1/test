@@ -4,3 +4,4 @@ I am adding the first commit in feature1!
 This is added in the second commit!
 I am adding the second commit in feature1!
 This is added in the third commit!
+I am adding the third commit in feature1!
